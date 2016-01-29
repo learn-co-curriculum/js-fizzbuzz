@@ -8,4 +8,4 @@ $ learn  # runs only in the terminal
 $ learn -b # runs also in the browser
 ```
 
-<a href='https://learn.co/lessons/js-fizzbuzz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-fizzbuzz' title='FizzBuzz'>FizzBuzz</a> on Learn.co and start learning to code for free.</p>
